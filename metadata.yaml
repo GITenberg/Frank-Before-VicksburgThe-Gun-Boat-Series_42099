@@ -1,0 +1,44 @@
+_repo: Frank-Before-VicksburgThe-Gun-Boat-Series_42099
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42099-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Castlemon, Henry
+    - Fosdick, Charles Austin
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+description: Younger readers will love this thrilling first-hand look at one of the
+  crucial battles of the American Civil War, the Siege at Vicksburg, during which
+  more than 30,000 soldiers were injured, killed or captured. After a period of rest
+  and recuperation back home, Frank Nelson, the star of Castlemon's beloved Gunboat
+  Series, is called back into service. Will he be able to survive this legendarily
+  bloody battle?
+gutenberg_issued: '2013-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42099'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'War stories'
+- !lcsh 'Vicksburg (Miss.) -- History -- Siege, 1863 -- Juvenile fiction'
+- !lcsh 'Naval battles -- Juvenile fiction'
+- !lcsh 'Gunboats -- Juvenile fiction'
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcsh 'Sailors -- Juvenile fiction'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: 'Frank Before Vicksburg
+
+  The Gun-Boat Series'
+url: http://www.gutenberg.org/ebooks/42099
